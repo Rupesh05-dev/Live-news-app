@@ -14,6 +14,14 @@ Welcome to our Live News App! This application provides real-time news updates f
 - **Smooth Navigation**: Utilize React Router DOM for seamless navigation between different sections of the app.
 - **Infinite Scrolling**: The Inyscroll package allows for infinite scrolling, providing a continuous stream of news articles.
 
+
+## pakeges used in this project 
+
+  - **Vite**
+  - **Tailwind css**
+  - **Reach router dom**
+  - **react-infinite-scroll-component**
+
 ## Installation
 
 To run the app locally, follow these steps:
